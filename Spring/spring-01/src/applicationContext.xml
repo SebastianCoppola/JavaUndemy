@@ -7,11 +7,37 @@
     http://www.springframework.org/schema/context
     http://www.springframework.org/schema/context/spring-context.xsd">
 
-    <!-- Define your beans here -->
-    <bean id="myCoach" class="com.luv2code.springdemo.TrackCoach">
+	<!-- PROPERTY FILE -->
+	<context:property-placeholder location="classpath:tennis.coach.properties"/>
+	
+    <!-- BEANS -->
     
+    <!-- DEPENDENCY IMP : HappyFortuneServices -->    
+    <bean id="myFortune" 
+    	class="com.luv2code.springdemo.HappyFortuneServices">
+    </bean>
+   
+    <!-- DEPENDENCY IMP : RandomFortuneServices -->    
+    <bean id="myRandomFortune" 
+    	class="com.luv2code.springdemo.RandomFortuneServices">
+    </bean>
+	
+	<!-- OBJECT MANAGE STATIC FORTUNE -->
+    <bean id="myCoach" class="com.luv2code.springdemo.BaseballCoach">
+    	<constructor-arg ref="myFortune" />
     </bean>
     
+    <!-- OBJECT MANAGE tennis.coach.properties -->
+    <bean id="myTennisCoach" class="com.luv2code.springdemo.TennisCoach">
+    	<property name="fortuneService" ref="myFortune" />
+    	<property name="emailAddress" value="${coach.email}" />
+    	<property name="team" value="${coach.team}" />
+    </bean>
+    
+    <!-- OBJECT MANAGE RANDOM FORTUNE -->
+    <bean id="myTrackCoach" class="com.luv2code.springdemo.TrackCoach">
+    	<property name="fortuneService" ref="myRandomFortune" />
+    </bean>
     
 </beans>
 
