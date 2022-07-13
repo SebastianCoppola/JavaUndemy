@@ -1,7 +1,9 @@
 package com.luv2code.springdemo;
+import javax.annotation.PostConstruct;
+import javax.annotation.PreDestroy;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
 @Component
@@ -14,6 +16,16 @@ public class TennisCoach implements Coach {
 	
 	//constructor:
 	public TennisCoach(){};
+	
+	//init and destroy methods:
+	@PostConstruct
+	public void myPostConstructMethod() {
+		System.out.println("Object builded correctly");
+	}
+	@PreDestroy
+	public void myPreDestroyMethod() {
+		System.out.println("Object will be destroyed");
+	}
 	
 	//super methods:
 	@Override
