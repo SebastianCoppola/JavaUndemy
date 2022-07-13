@@ -20,4 +20,13 @@ public class BaseballCoach implements Coach{
 		//use my fortune service
 		return fortuneService.getFortune();
 	}
+	
+	//init-method
+	public void myInitMethod() {
+		System.out.println("My Init Method");
+	}
+	//destroy-method
+	public void myDestroyMethod() {
+		System.out.println("My Destroy Method");
+	}
 }
