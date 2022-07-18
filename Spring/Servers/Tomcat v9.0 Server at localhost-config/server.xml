@@ -154,7 +154,7 @@
 
       
       
-      <Context docBase="spring-05-maven-webproject-mvc" path="/spring-05-maven-webproject-mvc" reloadable="true" source="org.eclipse.jst.jee.server:spring-05-maven-webproject-mvc"/><Context docBase="spring-04-mvc" path="/spring-04-mvc" reloadable="true" source="org.eclipse.jst.jee.server:spring-04-mvc"/></Host>
+      <Context docBase="spring-06-validation" path="/spring-06-validation" reloadable="true" source="org.eclipse.jst.jee.server:spring-06-validation"/></Host>
     </Engine>
   </Service>
 </Server>
