@@ -154,7 +154,7 @@
 
       
       
-      <Context docBase="spring-06-validation" path="/spring-06-validation" reloadable="true" source="org.eclipse.jst.jee.server:spring-06-validation"/><Context docBase="spring-07-hibernate" path="/spring-07-hibernate" reloadable="true" source="org.eclipse.jst.j2ee.server:spring-07-hibernate"/></Host>
+      <Context docBase="spring-09-hibernate-mvc-crud" path="/spring-09-hibernate-mvc-crud" reloadable="true" source="org.eclipse.jst.jee.server:spring-09-hibernate-mvc-crud"/></Host>
     </Engine>
   </Service>
 </Server>
