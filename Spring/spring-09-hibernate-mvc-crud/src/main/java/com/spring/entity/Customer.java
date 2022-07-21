@@ -60,7 +60,7 @@ public class Customer {
 	//toString:
 	@Override
 	public String toString() {
-		return "[Instructor Id: " + id 
+		return "[Customer Id: " + id 
 				+ " - First Name: " + firstName 
 				+ " - Last Name: " + lastName 
 				+ " - Email: " + email + "]";

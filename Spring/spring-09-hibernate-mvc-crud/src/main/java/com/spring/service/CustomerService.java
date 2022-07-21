@@ -1,9 +1,9 @@
-package com.spring.dao;
+package com.spring.service;
 
 import java.util.List;
 import com.spring.entity.Customer;
 
-public interface CustomerDAO {
+public interface CustomerService {
 	
 	public List<Customer> getCustomers();
 
@@ -16,5 +16,5 @@ public interface CustomerDAO {
 	public List<Customer> searchCustomers(String theSearchName);
 
 	public List<Customer> getCustomers(int theSortField);
-	
+
 }

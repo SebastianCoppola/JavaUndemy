@@ -15516,3 +15516,761 @@ org.eclipse.core.runtime.CoreException: Launch configuration DeleteStudentUpdate
 2022-07-20 18:26:22,074 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
 2022-07-20 18:26:22,076 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-07-20 18:26:22,076 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 08:51:30,049 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-21 08:51:34,469 [Worker-2: Updating indexes] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2022-07-21 08:52:53,437 [Worker-2: Updating indexes] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 78969 ms
+2022-07-21 09:01:15,269 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:01:15,269 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:01:15,274 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:01:15,274 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:02:03,411 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:02:03,412 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:02:03,414 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:02:03,415 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:07:47,344 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:07:47,347 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:07:47,349 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:07:47,349 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:08:07,628 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:08:07,628 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:08:07,629 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:08:07,629 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:08:23,016 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:08:23,016 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:08:23,018 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:08:23,018 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:08:43,857 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:08:43,857 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:08:43,860 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:08:43,861 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:09:02,231 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:09:02,232 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:09:02,233 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:09:02,233 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:09:43,960 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:09:43,961 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:09:43,964 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:09:43,964 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:10:05,601 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:10:05,602 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:10:05,606 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:10:05,607 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:11:44,779 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:11:44,779 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:11:44,781 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:11:44,781 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:11:50,617 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:11:50,618 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:11:50,620 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:11:50,620 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:12:05,826 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:12:05,827 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:12:05,828 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:12:05,829 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:12:14,794 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:12:14,795 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:12:14,797 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:12:14,797 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:14:00,778 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:14:00,778 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:14:00,780 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:14:00,780 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:14:09,128 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:14:09,128 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:14:09,129 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:14:09,129 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:14:32,013 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:14:32,013 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:14:32,017 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:14:32,017 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:15:00,306 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:15:00,306 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:15:00,308 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:15:00,308 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:15:26,490 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:15:26,491 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:15:26,492 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:15:26,492 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:15:51,118 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:15:51,118 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:15:51,119 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:15:51,119 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:16:04,556 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:16:04,557 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:16:04,558 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:16:04,558 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:16:18,484 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:16:18,484 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:16:18,485 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:16:18,485 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:23:20,975 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:23:20,976 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:23:20,977 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:23:20,977 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:24:10,226 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:24:10,226 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:24:10,227 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:24:10,227 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:26:24,953 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:26:24,954 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:26:24,955 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:26:24,955 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:26:32,977 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:26:32,977 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:26:32,978 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:26:32,979 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:26:56,334 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:26:56,334 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:26:56,335 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:26:56,335 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:26:59,536 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:26:59,536 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:26:59,537 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:26:59,537 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:27:27,292 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:27:27,292 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:27:27,293 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:27:27,293 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:28:01,398 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:28:01,398 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:28:01,399 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:28:01,399 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:29:12,404 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:29:12,405 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:29:12,405 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:29:12,405 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:30:11,608 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:30:11,608 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:30:11,609 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:30:11,609 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:31:30,193 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:31:30,194 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:31:30,195 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:31:30,195 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:31:56,917 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:31:56,917 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:31:56,918 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:31:56,918 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:31:59,078 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:31:59,078 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:31:59,079 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:31:59,079 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:33:08,879 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:33:08,879 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:33:08,880 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:33:08,880 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:33:44,223 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:33:44,224 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:33:44,225 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:33:44,226 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:34:06,085 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:34:06,085 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:34:06,086 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:34:06,087 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:35:40,825 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:35:40,825 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:35:40,826 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:35:40,826 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:35:44,751 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:35:44,751 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:35:44,752 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:35:44,753 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:36:16,586 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:36:16,586 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:36:16,587 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:36:16,587 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:37:37,936 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:37:37,937 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:37:37,938 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:37:37,938 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:37:59,137 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:37:59,137 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:37:59,139 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:37:59,139 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:39:57,599 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:39:57,599 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:39:57,600 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:39:57,601 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:40:30,795 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:40:30,795 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:40:30,796 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:40:30,797 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:41:36,272 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:41:36,272 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:41:36,274 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:41:36,274 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:43:08,783 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:43:08,784 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:43:08,786 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:43:08,786 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:43:57,154 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:43:57,154 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:43:57,154 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:43:57,155 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:43:58,257 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:43:58,257 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:43:58,258 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:43:58,258 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:44:09,723 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:44:09,723 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:44:09,724 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:44:09,725 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:46:01,765 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:46:01,765 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:46:01,766 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:46:01,766 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:47:07,285 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:47:07,286 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:47:07,287 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:47:07,287 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:49:25,133 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:49:25,133 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:49:25,135 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:49:25,135 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:49:49,132 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:49:49,132 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:49:49,133 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:49:49,133 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:50:14,271 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:50:14,272 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:50:14,272 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:50:14,272 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:50:46,875 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:50:46,875 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:50:46,876 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:50:46,876 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:52:27,337 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:52:27,337 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:52:27,339 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:52:27,339 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:53:10,493 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:53:10,494 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:53:10,495 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:53:10,495 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 09:53:14,455 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:53:14,455 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 09:53:14,457 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 09:53:14,457 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:01:31,447 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:01:31,447 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:01:31,448 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:01:31,448 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:09:45,313 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:09:45,314 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:09:45,314 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:09:45,315 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:09:58,934 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:09:58,934 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:09:58,936 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:09:58,936 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:12:23,933 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:12:23,934 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:12:23,934 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:12:23,934 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:13:48,449 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:13:48,449 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:13:48,450 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:13:48,450 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:15:22,038 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:15:22,038 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:15:22,039 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:15:22,039 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:15:53,360 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:15:53,361 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:15:53,361 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:15:53,361 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:19:05,850 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:19:05,851 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:19:05,851 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:19:05,851 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:19:19,357 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:19:19,357 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:19:19,358 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:19:19,359 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:20:31,419 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:20:31,419 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:20:31,420 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:20:31,420 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:21:38,107 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:21:38,107 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:21:38,108 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:21:38,108 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:22:39,198 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:22:39,198 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:22:39,199 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:22:39,199 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:24:07,733 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:24:07,734 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:24:07,735 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:24:07,735 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:24:10,140 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:24:10,140 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:24:10,141 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:24:10,141 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:30:15,249 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:30:15,249 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:30:15,250 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:30:15,250 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:32:15,462 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:32:15,462 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:32:15,463 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:32:15,463 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:35:07,317 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:35:07,317 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:35:07,318 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:35:07,318 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:37:19,029 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:37:19,029 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:37:19,030 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:37:19,030 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:37:40,126 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:37:40,126 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:37:40,128 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:37:40,128 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:39:31,790 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:39:31,790 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:39:31,791 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:39:31,791 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:39:37,347 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:39:37,347 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:39:37,348 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:39:37,348 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:40:27,776 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:40:27,776 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:40:27,777 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:40:27,777 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:42:53,017 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:42:53,017 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:42:53,019 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:42:53,019 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:46:34,758 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:46:34,758 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:46:34,759 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:46:34,759 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:47:22,941 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:47:22,941 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:47:22,942 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:47:22,942 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:47:31,204 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:47:31,204 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:47:31,205 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:47:31,206 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:48:08,307 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:48:08,307 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:48:08,308 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:48:08,308 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:48:48,773 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:48:48,773 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:48:48,774 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:48:48,774 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:49:17,716 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:49:17,716 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:49:17,717 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:49:17,717 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:49:29,914 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:49:29,915 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:49:29,917 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:49:29,917 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:50:59,427 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:50:59,427 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:50:59,428 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:50:59,428 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:51:05,047 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:51:05,047 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:51:05,048 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:51:05,048 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:51:24,898 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:51:24,898 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:51:24,899 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:51:24,899 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:52:28,414 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:52:28,414 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:52:28,416 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:52:28,416 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:52:39,789 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:52:39,789 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:52:39,790 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:52:39,790 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:53:17,459 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:53:17,459 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:53:17,460 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:53:17,460 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:53:24,802 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:53:24,803 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:53:24,803 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:53:24,803 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:53:48,991 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:53:48,992 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:53:48,993 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:53:48,993 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:54:07,230 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:54:07,230 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:54:07,231 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:54:07,231 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 10:57:09,730 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:57:09,730 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 10:57:09,731 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 10:57:09,731 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:00:30,983 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:00:30,983 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:00:30,984 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:00:30,984 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:08:55,748 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:08:55,748 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:08:55,750 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:08:55,750 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:09:29,805 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:09:29,806 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:09:29,806 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:09:29,806 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:10:10,258 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:10:10,258 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:10:10,258 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:10:10,258 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:10:19,585 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:10:19,586 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:10:19,587 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:10:19,587 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:12:26,913 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:12:26,914 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:12:26,914 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:12:26,915 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:12:56,433 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:12:56,433 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:12:56,434 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:12:56,434 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:13:03,024 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:13:03,025 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:13:03,025 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:13:03,025 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:14:12,703 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:14:12,703 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:14:12,704 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:14:12,704 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:14:27,448 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:14:27,448 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:14:27,449 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:14:27,449 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:14:52,017 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:14:52,017 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:14:52,019 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:14:52,019 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:15:44,330 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:15:44,331 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:15:44,331 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:15:44,332 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:16:11,722 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:16:11,722 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:16:11,723 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:16:11,723 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:18:15,577 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:18:15,577 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:18:15,578 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:18:15,578 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:18:31,480 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:18:31,480 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:18:31,481 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:18:31,481 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:18:32,517 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:18:32,517 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:18:32,518 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:18:32,518 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:18:40,616 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:18:40,616 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:18:40,616 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:18:40,616 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:18:53,442 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:18:53,442 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:18:53,444 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:18:53,444 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:19:39,162 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:19:39,162 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:19:39,163 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:19:39,163 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:19:51,146 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:19:51,146 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:19:51,147 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:19:51,147 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:21:26,157 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:21:26,157 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:21:26,158 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:21:26,158 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:21:37,803 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:21:37,803 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:21:37,804 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:21:37,804 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:21:48,133 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:21:48,133 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:21:48,134 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:21:48,135 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:21:50,171 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:21:50,171 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:21:50,172 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:21:50,172 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:22:07,556 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:22:07,556 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:22:07,557 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:22:07,557 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:22:13,079 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:22:13,079 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:22:13,081 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:22:13,081 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:24:34,029 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:24:34,029 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:24:34,030 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:24:34,030 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:24:46,392 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:24:46,393 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:24:46,394 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:24:46,394 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:28:46,769 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:28:46,769 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:28:46,769 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:28:46,769 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:29:38,984 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:29:38,984 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:29:38,985 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:29:38,985 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:30:58,826 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:30:58,826 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:30:58,827 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:30:58,827 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:31:46,098 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:31:46,099 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:31:46,099 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:31:46,099 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:31:49,560 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:31:49,560 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:31:49,561 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:31:49,561 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:34:13,146 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:34:13,146 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:34:13,147 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:34:13,147 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:35:10,171 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:35:10,171 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:35:10,172 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:35:10,172 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:35:23,087 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:35:23,088 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:35:23,089 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:35:23,089 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:35:55,612 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:35:55,612 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:35:55,613 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:35:55,614 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:36:42,590 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:36:42,590 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:36:42,591 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:36:42,591 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:39:44,286 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:39:44,286 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:39:44,287 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:39:44,287 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:40:00,138 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:40:00,138 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:40:00,139 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:40:00,139 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:40:45,652 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:40:45,652 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:40:45,653 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:40:45,653 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:40:48,865 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:40:48,865 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:40:48,866 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:40:48,867 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:42:03,939 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:42:03,939 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:42:03,940 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:42:03,940 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:42:17,565 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:42:17,565 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:42:17,566 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:42:17,567 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:43:10,716 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-21 11:43:13,271 [Worker-3: Updating indexes] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2022-07-21 11:43:48,719 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:43:48,719 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:43:48,722 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:43:48,722 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:44:31,755 [Worker-3: Updating indexes] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 78484 ms
+2022-07-21 11:47:11,401 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:47:11,401 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:47:11,404 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:47:11,404 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:48:31,698 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:48:31,698 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:48:31,700 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:48:31,700 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:48:36,009 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:48:36,009 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:48:36,010 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:48:36,010 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:55:52,124 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:55:52,124 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:55:52,125 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:55:52,126 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:56:44,502 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:56:44,502 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:56:44,503 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:56:44,503 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 11:58:19,820 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:58:19,821 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 11:58:19,822 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:58:19,823 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:00:22,471 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:00:22,472 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:00:22,475 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:00:22,475 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:04:30,784 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:04:30,784 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:04:30,786 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:04:30,786 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:04:44,802 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:04:44,802 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:04:44,804 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:04:44,804 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:04:51,966 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:04:51,967 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:04:51,968 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:04:51,968 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:04:55,912 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:04:55,913 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:04:55,915 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:04:55,915 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:04:59,097 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:04:59,098 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:04:59,099 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:04:59,099 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:05:08,107 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:05:08,108 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:05:08,109 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:05:08,109 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:07:36,637 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:07:36,637 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:07:36,638 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:07:36,639 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:09:59,887 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:09:59,887 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:09:59,889 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:09:59,890 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:10:03,297 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:10:03,297 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:10:03,298 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:10:03,298 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:10:25,229 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:10:25,229 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:10:25,231 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:10:25,231 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:13:33,102 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:13:33,103 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:13:33,104 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:13:33,104 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:14:50,009 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:14:50,010 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:14:50,011 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:14:50,011 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:14:53,152 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:14:53,152 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:14:53,153 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:14:53,153 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:15:16,749 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:15:16,749 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:15:16,750 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:15:16,751 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:16:19,205 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:16:19,205 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:16:19,206 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:16:19,206 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:17:17,090 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:17:17,090 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:17:17,092 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:17:17,092 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:18:05,179 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:18:05,180 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:18:05,181 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:18:05,181 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:20:07,633 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:20:07,634 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:20:07,634 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:20:07,635 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:20:36,241 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:20:36,241 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:20:36,243 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:20:36,243 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:20:40,450 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:20:40,450 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:20:40,451 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:20:40,451 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:20:42,568 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:20:42,568 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:20:42,569 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:20:42,569 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:23:24,768 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:23:24,772 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:23:24,773 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:23:24,773 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:23:37,374 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:23:37,374 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:23:37,375 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:23:37,376 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:23:50,728 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:23:50,728 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:23:50,729 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:23:50,729 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:24:37,207 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:24:37,208 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:24:37,208 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:24:37,209 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:24:46,146 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:24:46,147 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:24:46,147 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:24:46,148 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:26:12,089 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:26:12,089 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:26:12,090 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:26:12,090 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:26:24,225 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:26:24,226 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:26:24,227 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:26:24,227 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:27:19,297 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:27:19,297 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:27:19,298 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:27:19,298 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:29:39,929 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:29:39,929 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:29:39,930 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:29:39,930 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:30:04,752 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:30:04,752 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:30:04,753 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:30:04,753 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:30:29,231 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:30:29,231 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:30:29,232 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:30:29,232 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:30:41,916 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:30:41,917 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:30:41,918 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:30:41,918 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:30:44,868 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:30:44,869 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:30:44,869 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:30:44,870 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:31:28,821 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:31:28,822 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:31:28,822 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:31:28,823 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:32:47,445 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:32:47,445 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:32:47,446 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:32:47,447 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:35:26,738 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:35:26,738 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:35:26,739 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:35:26,739 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
+2022-07-21 12:38:19,488 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:38:19,489 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\main\resources
+2022-07-21 12:38:19,490 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 12:38:19,490 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sebastián\Programación\cursos\java\undemy\Spring\spring-09-hibernate-mvc-crud\src\test\resources
