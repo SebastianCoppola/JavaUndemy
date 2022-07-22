@@ -29,8 +29,8 @@ public class CreateReview {
 		try{
 			session.beginTransaction();
 			
-			int courseId1 = 10; 
-			int courseId2 = 11; 
+			int courseId1 = 12; 
+			int courseId2 = 13; 
 			
 			Course tempCourse1 = session.get(Course.class,courseId1);
 			Course tempCourse2 = session.get(Course.class,courseId2);

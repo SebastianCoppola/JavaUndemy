@@ -29,7 +29,7 @@ public class CreateCourse {
 		//create new instructor and save it:
 		try{
 			session.beginTransaction();
-			int instructorId1= 1;
+			int instructorId1= 2;
 			Instructor tempInstructor1 = session.get(Instructor.class,instructorId1);
 			
 			Course tempCourse1 = new Course("Curso1");

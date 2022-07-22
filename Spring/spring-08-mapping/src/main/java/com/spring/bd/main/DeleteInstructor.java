@@ -27,7 +27,7 @@ public class DeleteInstructor {
 		try{
 			session.beginTransaction();
 			
-			int instructorId = 1;
+			int instructorId = 2;
 			
 			Instructor tempInstructor = session.get(Instructor.class,instructorId);
 			
