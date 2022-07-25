@@ -16,9 +16,6 @@ import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
-import org.hibernate.annotations.OnDelete;
-import org.hibernate.annotations.OnDeleteAction;
-
 @Entity
 @Table(name="course")
 public class Course {
@@ -31,10 +28,8 @@ public class Course {
 	@Column(name="title")
 	private String title;
 	
-	@ManyToOne(cascade={CascadeType.PERSIST,CascadeType.MERGE,
-						CascadeType.DETACH,CascadeType.REFRESH})
+	@ManyToOne(cascade={CascadeType.PERSIST})
 	@JoinColumn(name="instructor_id")
-	@OnDelete(action=OnDeleteAction.CASCADE)
 	private Instructor instructor;
 	
 	@OneToMany(fetch=FetchType.LAZY,cascade=CascadeType.ALL)

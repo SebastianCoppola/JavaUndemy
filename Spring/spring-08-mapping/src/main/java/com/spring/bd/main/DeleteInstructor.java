@@ -1,5 +1,7 @@
 package com.spring.bd.main;
 
+import java.util.List;
+
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
@@ -27,9 +29,14 @@ public class DeleteInstructor {
 		try{
 			session.beginTransaction();
 			
-			int instructorId = 2;
+			int instructorId = 3;
 			
 			Instructor tempInstructor = session.get(Instructor.class,instructorId);
+			
+			List<Course> tempCourses = tempInstructor.getCourses();
+			for(int i=0; i<tempCourses.size(); i++) {
+				tempCourses.get(i).setInstructor(null);
+			}
 			
 			session.delete(tempInstructor);
 			

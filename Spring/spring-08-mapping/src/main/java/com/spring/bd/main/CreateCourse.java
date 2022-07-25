@@ -29,11 +29,11 @@ public class CreateCourse {
 		//create new instructor and save it:
 		try{
 			session.beginTransaction();
-			int instructorId1= 2;
+			int instructorId1= 3;
 			Instructor tempInstructor1 = session.get(Instructor.class,instructorId1);
 			
-			Course tempCourse1 = new Course("Curso1");
-			Course tempCourse2 = new Course("Curso2");
+			Course tempCourse1 = new Course("Cursoito2");
+			Course tempCourse2 = new Course("Cursoito3");
 			
 			tempInstructor1.add(tempCourse1);
 			tempInstructor1.add(tempCourse2);

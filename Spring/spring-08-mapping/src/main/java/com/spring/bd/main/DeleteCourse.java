@@ -30,7 +30,7 @@ public class DeleteCourse {
 		try{
 			session.beginTransaction();
 			
-			int courseId = 13;
+			int courseId = 18;
 			Course tempCourse = session.get(Course.class, courseId);
 			session.delete(tempCourse);
 						
