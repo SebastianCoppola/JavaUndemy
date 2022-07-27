@@ -1,6 +1,7 @@
 package org.formacion;
 
 import java.util.List;
+import java.util.function.Predicate;
 import java.util.ArrayList;
 
 /**
@@ -14,19 +15,25 @@ import java.util.ArrayList;
  * Para completar esta clase falta:
  *  - indicar el tipo de los elementos de la List validadores: pensad, debe ser un tipo que nos diga
  *       si un objeto del tipo T cumple con una condicion o no.
- *  - implementar el metodo add para aceptar un nuevo validador individual y acumularlo a la lista validadores
+ *  - implementar el metodo add para aceptar un nuevo validador individual y acumularlo a la lista validadores.
  *  - implementar el metodo valida para que realice la accion indicada mas arriba. Sera necesario cambiar el 
  *       tipo del parametro de Object al tipo adecuado
  */
 public class Validador <T> {
 
-	// falta indicar el tipo de List
-	List validadores = new ArrayList<>();
+	List<Predicate<T>> validadores = new ArrayList<>();
 	
-	public boolean valida(Object valor) { // cambiar Object por el tipo adecuado
-	   // true si pasa todos los validadores, falso si no
-		return true;
+	public boolean valida(T persona) { 
+	   for(Predicate<T> validador : validadores){
+		   if (!validador.test(persona)) {
+			   return false;
+			}
+	   }
+	   return true;
 	}
 	
 	// falta un metodo add que admite nuevas validaciones
+	public void add(Predicate newValidador) {
+		validadores.add(newValidador);
+	}
 }

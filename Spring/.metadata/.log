@@ -5940,3 +5940,48 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 17:58:50.012
 !MESSAGE executing callback sts4.classpath.uTRMssUF SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 18:05:08.156
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 18:05:08.157
+!MESSAGE classpath=5 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 18:05:08.159
+!MESSAGE buffering callback sts4.classpath.uTRMssUF 3_01_jdk_functional_interfaces_solucion false 5
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 18:05:08.160
+!MESSAGE executing callback sts4.classpath.uTRMssUF 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 18:05:08.173
+!MESSAGE executing callback sts4.classpath.uTRMssUF SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 18:05:08.193
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 18:05:08.194
+!MESSAGE classpath=5 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 18:05:08.195
+!MESSAGE buffering callback sts4.classpath.uTRMssUF 3_01_jdk_functional_interfaces_solucion false 5
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 18:05:08.196
+!MESSAGE executing callback sts4.classpath.uTRMssUF 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 18:05:08.219
+!MESSAGE executing callback sts4.classpath.uTRMssUF SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 18:05:08.693
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 18:05:08.694
+!MESSAGE classpath=5 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 18:05:08.694
+!MESSAGE buffering callback sts4.classpath.uTRMssUF 3_01_jdk_functional_interfaces_solucion false 5
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 18:05:08.695
+!MESSAGE executing callback sts4.classpath.uTRMssUF 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 18:05:08.702
+!MESSAGE executing callback sts4.classpath.uTRMssUF SUCCESS [done]
