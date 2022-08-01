@@ -6,3 +6,10 @@
 /CatalogoPeliculas/nbproject/private/
 /CatalogoPeliculas/build/
 /FundamentosJava/MundoPc/build/
+
+/.idea 
+/.project
+/.settings
+/target
+/bin
+/.metadata

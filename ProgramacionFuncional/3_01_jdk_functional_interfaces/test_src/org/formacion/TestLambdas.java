@@ -7,7 +7,6 @@ import java.util.function.Consumer;
 import java.util.function.IntUnaryOperator;
 import java.util.function.LongBinaryOperator;
 import java.util.function.Predicate;
-import java.util.function.UnaryOperator;
 
 import org.junit.Test;
 
@@ -68,7 +67,7 @@ public class TestLambdas {
 		
 		assertTrue(segundoApellidoEsNull.test(personaSinSegundoApellido));
 		assertTrue(segundoApellidoEsNull.test(personaConSegundoApellido));
-		//assertFalse(segundoApellidoEsNull.test(personaNoPariente));
+		assertFalse(segundoApellidoEsNull.test(personaNoPariente));
 
 		// Una funcion que nos diga si dos personas son parientes: para nosotros parientes
 		// son personas con el mismo primer apellido.
