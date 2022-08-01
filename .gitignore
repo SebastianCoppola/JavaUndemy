@@ -7,9 +7,9 @@
 /CatalogoPeliculas/build/
 /FundamentosJava/MundoPc/build/
 
-/.idea/ 
-/.project/
-/.settings/
-/target/
-/bin/
-/.metadata/
+.idea
+.project
+.settings
+target
+bin
+.metadata
