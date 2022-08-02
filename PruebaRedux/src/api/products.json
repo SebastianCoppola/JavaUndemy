@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "TV",
+      "price": "570",
+      "id": 1659367872035
+    },
+    {
+      "name": "Iphone",
+      "price": "750",
+      "id": 1659367952595
+    },
+    {
+      "name": "Speakers",
+      "price": "106",
+      "id": 1659367975571
+    },
+    {
+      "name": "Notebook",
+      "price": "600",
+      "id": 1659373925314
+    },
+    {
+      "name": "Monitor",
+      "price": "150",
+      "id": 1659382061794
+    },
+    {
+      "name": "CPU Gamer",
+      "price": "1000",
+      "id": 1659382097555
+    },
+    {
+      "name": "Mouse Inalam",
+      "price": "10",
+      "id": 1659443731100
+    }
+  ]
+}
